@@ -1,1 +1,11 @@
 # -linux-commands
+- cd (change directory forward)
+- ../ (change directory backward)
+- pwd (present working directory)
+- ls (list of files)
+- rm (remove)
+- mkdir (create a dictionary)
+- rmdir (remove dictonary)
+- touch (create a new file)
+- nano (edit a file)
+- cat (file discription)
